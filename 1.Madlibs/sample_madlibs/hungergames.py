@@ -27,6 +27,3 @@ that would protect from almost any sort of weather. If I had the guts to go in a
 the other twenty-three tributes. Which I have been instructed not to do."
 
     print(madlib)
-
-if __name__ == '__main__':
-    madlib()
